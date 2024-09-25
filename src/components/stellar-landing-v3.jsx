@@ -157,7 +157,7 @@ export function StellarLandingV3() {
                     </div>
                   </CardHeader>
                   <CardContent>
-                    <p>"{testimonial.content}"</p>
+                    <p>{testimonial.content}</p>
                   </CardContent>
                 </Card>
               ))}
